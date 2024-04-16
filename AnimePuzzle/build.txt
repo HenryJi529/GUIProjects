@@ -1,0 +1,1 @@
+jar cmf AnimePuzzle/MANIFEST.MF AnimePuzzle/AnimePuzzle.jar ./AnimePuzzle/images  -C ./out/production/AnimePuzzle .
