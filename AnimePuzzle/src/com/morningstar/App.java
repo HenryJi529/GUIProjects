@@ -7,10 +7,6 @@ import java.util.HashSet;
 import java.util.Random;
 
 public class App extends JFrame {
-    public static void main(String[] args) {
-        new App(0.5);
-    }
-
     // 数据成员变量
     private final double random;
     private final ImageIcon[] images;
